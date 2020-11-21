@@ -10,6 +10,7 @@ def primary():
   # print(quotes)
   #print(quotes[-1])
   print(quotes[rnd])
+  # adding a comment
 
 if __name__== "__main__":
   primary()
