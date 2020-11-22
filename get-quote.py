@@ -2,6 +2,7 @@ import random
 def primary():
   #  print("Keep it logically awesome Dude.")
   #  print('Hello')
+  print('did')
   f = open("quotes.txt")
   quotes = f.readlines()
   f.close()
