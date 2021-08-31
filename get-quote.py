@@ -15,7 +15,7 @@ def mymain():
   #print(quotes)
   #print(quotes[0]) #First quote
   #print(quotes[-1]) # Print the last one!
-  
+  #adding comment
   print(quotes[rnd])
 
 if __name__== "__main__":
