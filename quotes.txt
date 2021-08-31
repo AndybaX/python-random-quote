@@ -14,3 +14,4 @@ Design for failure
 Keep it logically awesome
 Fucking get it done
 Good is better than perfect
+Make it usefull
